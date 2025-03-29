@@ -1,0 +1,2 @@
+# EDA_y_An-lisis_Interactivo_de_Ansiedad_y_Depresi-n_con_Power_BI
+Análisis exploratorio de un dataset sobre ansiedad y depresión, utilizando técnicas de limpieza de datos, visualización y análisis interactivo con Power BI. El objetivo principal es entender características y patrones presentes en los datos, identificar posibles relaciones entre variables y proporcionar una base sólida para análisis posteriores.
